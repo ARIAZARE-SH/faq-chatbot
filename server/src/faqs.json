@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What sizes do you offer?",
+    "answer": "We offer sizes XS, S, M, L, XL, XXL, and 3XL across most of our clothing lines. Some collections also include Plus Size (1X–4X). Check each product page for available sizes and refer to our Size Guide for exact measurements."
+  },
+  {
+    "id": 2,
+    "question": "How do I find my correct size?",
+    "answer": "Visit our Size Guide page where you'll find detailed measurement charts for tops, bottoms, dresses, and outerwear. We recommend measuring your bust, waist, and hips and comparing with our size chart. If you're between sizes, we suggest sizing up for a comfortable fit."
+  },
+  {
+    "id": 3,
+    "question": "What is your return and exchange policy?",
+    "answer": "We accept returns and exchanges within 30 days of delivery. Items must be unworn, unwashed, and have original tags attached. Sale items are final sale and cannot be returned. To start a return, visit our Returns Portal with your order number."
+  },
+  {
+    "id": 4,
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5–7 business days. Express shipping (2–3 business days) is available at checkout for an additional fee. Orders placed before 2 PM are processed the same day. Free standard shipping on all orders over $75."
+  },
+  {
+    "id": 5,
+    "question": "Do you ship internationally?",
+    "answer": "Yes! We ship to over 50 countries worldwide. International shipping takes 10–14 business days. Duties and customs fees may apply depending on your country and are the responsibility of the customer. Shipping rates are calculated at checkout."
+  },
+  {
+    "id": 6,
+    "question": "How do I track my order?",
+    "answer": "Once your order ships, you'll receive a confirmation email with a tracking number. You can track your package on our website under 'Track My Order' or directly on the carrier's website. Tracking updates may take 24 hours to appear after shipment."
+  },
+  {
+    "id": 7,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and Klarna (Buy Now, Pay Later in 4 installments). All transactions are secured with SSL encryption."
+  },
+  {
+    "id": 8,
+    "question": "Can I cancel or modify my order?",
+    "answer": "Orders can be cancelled or modified within 1 hour of placing them. After that, orders are sent to our warehouse for processing and can no longer be changed. Please contact us immediately at support@ourstore.com if you need to make changes."
+  },
+  {
+    "id": 9,
+    "question": "How do I care for my clothes?",
+    "answer": "Care instructions are printed on the label inside each garment. As a general rule: machine wash cold on a gentle cycle, avoid tumble drying delicate fabrics, and hang or lay flat to dry. For silk, linen, and embellished pieces, we recommend dry cleaning."
+  },
+  {
+    "id": 10,
+    "question": "Do you offer discount codes or a loyalty program?",
+    "answer": "Yes! Sign up for our newsletter and get 15% off your first order. We also have a loyalty rewards program — earn 1 point for every $1 spent, redeemable for discounts. Follow us on Instagram and TikTok for exclusive flash sale codes."
+  },
+  {
+    "id": 11,
+    "question": "Are your clothes ethically made?",
+    "answer": "We are committed to ethical and sustainable fashion. All our garments are produced in certified factories with fair wages and safe working conditions. We use eco-friendly packaging and are working toward 100% sustainable materials by 2026."
+  },
+  {
+    "id": 12,
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us via email at support@ourstore.com (response within 24 hours), live chat on our website (Mon–Fri, 9 AM–6 PM), or through our Instagram DMs @ourstore. We're here to help with sizing, orders, returns, and anything else!"
+  }
+]
